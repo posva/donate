@@ -11,4 +11,8 @@ By making a donation, no matter how small, you are saying thanks and drawing a s
 - [Donorbox](https://donorbox.org/posva)
 - Lydia - contact me by private message on [twitter](https://twitter.com/posva)
 
+## Hiring
+
+I'm available for hire for Freelancing, giving talks and workshops. Reach out to me by [private message on Twitter](https://twitter.com/posva) or via [LinkedIn](https://www.linkedin.com/in/edsanmartin).
+
 ## Thanks!
