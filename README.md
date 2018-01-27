@@ -9,6 +9,6 @@ By making a donation, no matter how small, you are saying thanks and drawing a s
 - [Cagnotte](https://cagnotte.me/posva)
 - [Paypal](https://www.paypal.me/posva)
 - [Donorbox](https://donorbox.org/posva)
-- Lydia - contact me by email
+- Lydia - contact me by private message on [twitter](https://twitter.com/posva)
 
 ## Thanks!
