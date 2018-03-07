@@ -1,4 +1,4 @@
-# Donate
+# Say Thanks with a Donation
 
 Hello 👋, my name is Eduardo but you can see me around as _posva_.
 
