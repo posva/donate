@@ -3,19 +3,17 @@
 Hello 👋, my name is Eduardo but you can see me around as _posva_.
 
 I really enjoy building projects and sharing them with the world hoping they are useful to others as well. When I do this I do not expect anything but as much as I enjoy building and releasing stuff, I have to pay my bills as any other person. And, like most people, I look for jobs to pay them 😄. Which means I do all the Open Source in my Free time, as a hobby.
-You can read a bit more about [my story in my Patreon page](https://www.patreon.com/posva)
+You can read a bit more about [my story in my Github Sponsorship page](https://github.com/sponsors/posva).
 
 ## Monthly donation (preferred)
 
-If you really want to support my work, please, consider a monthly donation, even if it's just $1, by becoming a Patreon:
+If you really want to support my work, please, consider a monthly donation, even if it's just \$1, by becoming a Sponsor:
 
 <p>
-  <a href="https://www.patreon.com/posva" target="_blank" title="Patreon">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patreon">
+  <a href="https://github.com/sponsors/posva" target="_blank" title="Github Sponsorship">
+    <img src="sponsor.jpg" alt="Become a Sponsor">
   </a>
 </p>
-
-Or with [GitHub Sponsors](https://github.com/sponsors/posva).
 
 ## One time donation
 
