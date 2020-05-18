@@ -15,6 +15,8 @@ If you really want to support my work, please, consider a monthly donation, even
   </a>
 </p>
 
+Or with [GitHub Sponsors](https://github.com/sponsors/posva).
+
 ## One time donation
 
 By making a donation, no matter how small, you are saying thanks and drawing a smile on my face because I will know, somebody thought my project was useful and worth paying for 🤩.
